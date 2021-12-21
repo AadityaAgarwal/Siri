@@ -1,12 +1,12 @@
 Installation WinOS:
 
-pip install pipwin
-pipwin install pyaudio
-pip install speechrecognition
-pip install pywhatkit
-pip install pyttsx3
-pip install pyjokes
-pip install wikipedia
+pip install pipwin \n
+pipwin install pyaudio \n
+pip install speechrecognition \n
+pip install pywhatkit \n
+pip install pyttsx3 \n
+pip install pyjokes \n
+pip install wikipedia \n
 -------------------------------
 
 Voice commands for the assistant:
